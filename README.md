@@ -8,7 +8,7 @@ Simplified version of real 2048 game made with JS. *Version 1.0.0.*
 2. Open `index.html` in your browser.
 3. Use `WASD` keys to move cells.
 
-![2048](https://imgur.com/xLfulJb.png)
+
 
 ### To-do list
 
